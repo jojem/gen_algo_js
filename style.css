@@ -8,6 +8,7 @@ body {
 .elem{
 	font-size: 25px;
 	padding: 20px 10px;
+	height: 17%;
 	color: white;
 	margin: 23px 16px;
 	display: flex;
